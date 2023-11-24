@@ -1,9 +1,9 @@
 {
    "products" : [
     
-       { "id": 1, "title": "Product1"},
-       { "id": 2, "title": "Product2"},
-       { "id": 3, "title": "Product3"}
+       { "id": "p1", "title": "Product1", "decription": "This is Product 1"},
+       { "id": "p2", "title": "Product2", "decription": "This is Product 2"},
+       { "id": "p3", "title": "Product3", "decription": "This is Product 3"}
     
    ]
     
