@@ -1,8 +1,11 @@
 import React from 'react'
 
 const UserPage = (props) => {
+
   return (
-    <div>{props.id}</div>
+    <div>{props.id}
+    
+    </div>
   )
 }
 
